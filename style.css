@@ -57,7 +57,7 @@ h3
     top: 6px;
     width: 24px;
     height: 24px;
-    background: url("/invalid.png");
+    background: url("invalid.png");
     background-size: cover;
     z-index: 1000;
 }
@@ -69,7 +69,7 @@ h3
     top: 6px;
     width: 24px;
     height: 24px;
-    background: url("/valid.png");
+    background: url("valid.png");
     background-size: cover;
     z-index: 1000;
 }
